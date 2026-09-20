@@ -6,7 +6,7 @@ layout: page
   <div>
     <img src="./assets/logo.png" alt="Yadav Family" title="Yadav Family" style="max-width: 420px; height: auto;">
   </div>
-  <div>
+  <div style="display:none">
     <a href="/recipes">ajnesh</a> ·
     <a href="https://rajpal.yadav.cloud" target="_blank">rajpal</a> ·
     <a href="https://orcid.org/0000-0003-1782-2951" target="_blank">mukesh</a> ·
